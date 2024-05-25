@@ -1,0 +1,450 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\development\\C#_ASPNET_Practise\\Assignment-1\\Sales and Customer Managing System\\salesCustomerMvc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\AppData\\Local\\Temp\\g3p4m4xm..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD741F53-9230-4E97-A8FC-A3CE09F3573E}|salesCustomerMvc.csproj|d:\\development\\c#_aspnet_practise\\assignment-1\\sales and customer managing system\\salescustomermvc\\data\\salescustomermvccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD741F53-9230-4E97-A8FC-A3CE09F3573E}|salesCustomerMvc.csproj|solutionrelative:data\\salescustomermvccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD741F53-9230-4E97-A8FC-A3CE09F3573E}|salesCustomerMvc.csproj|d:\\development\\c#_aspnet_practise\\assignment-1\\sales and customer managing system\\salescustomermvc\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD741F53-9230-4E97-A8FC-A3CE09F3573E}|salesCustomerMvc.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD741F53-9230-4E97-A8FC-A3CE09F3573E}|salesCustomerMvc.csproj|d:\\development\\c#_aspnet_practise\\assignment-1\\sales and customer managing system\\salescustomermvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD741F53-9230-4E97-A8FC-A3CE09F3573E}|salesCustomerMvc.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD741F53-9230-4E97-A8FC-A3CE09F3573E}|salesCustomerMvc.csproj|d:\\development\\c#_aspnet_practise\\assignment-1\\sales and customer managing system\\salescustomermvc\\migrations\\salescustomermvccontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD741F53-9230-4E97-A8FC-A3CE09F3573E}|salesCustomerMvc.csproj|solutionrelative:migrations\\salescustomermvccontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\development\\C#_ASPNET_Practise\\Assignment-1\\Sales and Customer Managing System\\salesCustomerMvc\\Migrations\\20240525093812_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240525093812_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD741F53-9230-4E97-A8FC-A3CE09F3573E}|salesCustomerMvc.csproj|d:\\development\\c#_aspnet_practise\\assignment-1\\sales and customer managing system\\salescustomermvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AD741F53-9230-4E97-A8FC-A3CE09F3573E}|salesCustomerMvc.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD741F53-9230-4E97-A8FC-A3CE09F3573E}|salesCustomerMvc.csproj|d:\\development\\c#_aspnet_practise\\assignment-1\\sales and customer managing system\\salescustomermvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD741F53-9230-4E97-A8FC-A3CE09F3573E}|salesCustomerMvc.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD741F53-9230-4E97-A8FC-A3CE09F3573E}|salesCustomerMvc.csproj|d:\\development\\c#_aspnet_practise\\assignment-1\\sales and customer managing system\\salescustomermvc\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD741F53-9230-4E97-A8FC-A3CE09F3573E}|salesCustomerMvc.csproj|solutionrelative:controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD741F53-9230-4E97-A8FC-A3CE09F3573E}|salesCustomerMvc.csproj|d:\\development\\c#_aspnet_practise\\assignment-1\\sales and customer managing system\\salescustomermvc\\controllers\\storescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD741F53-9230-4E97-A8FC-A3CE09F3573E}|salesCustomerMvc.csproj|solutionrelative:controllers\\storescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD741F53-9230-4E97-A8FC-A3CE09F3573E}|salesCustomerMvc.csproj|d:\\development\\c#_aspnet_practise\\assignment-1\\sales and customer managing system\\salescustomermvc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD741F53-9230-4E97-A8FC-A3CE09F3573E}|salesCustomerMvc.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD741F53-9230-4E97-A8FC-A3CE09F3573E}|salesCustomerMvc.csproj|d:\\development\\c#_aspnet_practise\\assignment-1\\sales and customer managing system\\salescustomermvc\\models\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD741F53-9230-4E97-A8FC-A3CE09F3573E}|salesCustomerMvc.csproj|solutionrelative:models\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD741F53-9230-4E97-A8FC-A3CE09F3573E}|salesCustomerMvc.csproj|d:\\development\\c#_aspnet_practise\\assignment-1\\sales and customer managing system\\salescustomermvc\\models\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD741F53-9230-4E97-A8FC-A3CE09F3573E}|salesCustomerMvc.csproj|solutionrelative:models\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD741F53-9230-4E97-A8FC-A3CE09F3573E}|salesCustomerMvc.csproj|d:\\development\\c#_aspnet_practise\\assignment-1\\sales and customer managing system\\salescustomermvc\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD741F53-9230-4E97-A8FC-A3CE09F3573E}|salesCustomerMvc.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD741F53-9230-4E97-A8FC-A3CE09F3573E}|salesCustomerMvc.csproj|d:\\development\\c#_aspnet_practise\\assignment-1\\sales and customer managing system\\salescustomermvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD741F53-9230-4E97-A8FC-A3CE09F3573E}|salesCustomerMvc.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD741F53-9230-4E97-A8FC-A3CE09F3573E}|salesCustomerMvc.csproj|d:\\development\\c#_aspnet_practise\\assignment-1\\sales and customer managing system\\salescustomermvc\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD741F53-9230-4E97-A8FC-A3CE09F3573E}|salesCustomerMvc.csproj|solutionrelative:views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD741F53-9230-4E97-A8FC-A3CE09F3573E}|salesCustomerMvc.csproj|d:\\development\\c#_aspnet_practise\\assignment-1\\sales and customer managing system\\salescustomermvc\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD741F53-9230-4E97-A8FC-A3CE09F3573E}|salesCustomerMvc.csproj|solutionrelative:controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD741F53-9230-4E97-A8FC-A3CE09F3573E}|salesCustomerMvc.csproj|d:\\development\\c#_aspnet_practise\\assignment-1\\sales and customer managing system\\salescustomermvc\\views\\customers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD741F53-9230-4E97-A8FC-A3CE09F3573E}|salesCustomerMvc.csproj|solutionrelative:views\\customers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD741F53-9230-4E97-A8FC-A3CE09F3573E}|salesCustomerMvc.csproj|d:\\development\\c#_aspnet_practise\\assignment-1\\sales and customer managing system\\salescustomermvc\\controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD741F53-9230-4E97-A8FC-A3CE09F3573E}|salesCustomerMvc.csproj|solutionrelative:controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD741F53-9230-4E97-A8FC-A3CE09F3573E}|salesCustomerMvc.csproj|d:\\development\\c#_aspnet_practise\\assignment-1\\sales and customer managing system\\salescustomermvc\\models\\movie.cs.off||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD741F53-9230-4E97-A8FC-A3CE09F3573E}|salesCustomerMvc.csproj|solutionrelative:models\\movie.cs.off||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD741F53-9230-4E97-A8FC-A3CE09F3573E}|salesCustomerMvc.csproj|d:\\development\\c#_aspnet_practise\\assignment-1\\sales and customer managing system\\salescustomermvc\\views\\helloworld\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD741F53-9230-4E97-A8FC-A3CE09F3573E}|salesCustomerMvc.csproj|solutionrelative:views\\helloworld\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD741F53-9230-4E97-A8FC-A3CE09F3573E}|salesCustomerMvc.csproj|d:\\development\\c#_aspnet_practise\\assignment-1\\sales and customer managing system\\salescustomermvc\\views\\helloworld\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD741F53-9230-4E97-A8FC-A3CE09F3573E}|salesCustomerMvc.csproj|solutionrelative:views\\helloworld\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD741F53-9230-4E97-A8FC-A3CE09F3573E}|salesCustomerMvc.csproj|d:\\development\\c#_aspnet_practise\\assignment-1\\sales and customer managing system\\salescustomermvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD741F53-9230-4E97-A8FC-A3CE09F3573E}|salesCustomerMvc.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD741F53-9230-4E97-A8FC-A3CE09F3573E}|salesCustomerMvc.csproj|d:\\development\\c#_aspnet_practise\\assignment-1\\sales and customer managing system\\salescustomermvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD741F53-9230-4E97-A8FC-A3CE09F3573E}|salesCustomerMvc.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD741F53-9230-4E97-A8FC-A3CE09F3573E}|salesCustomerMvc.csproj|d:\\development\\c#_aspnet_practise\\assignment-1\\sales and customer managing system\\salescustomermvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD741F53-9230-4E97-A8FC-A3CE09F3573E}|salesCustomerMvc.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\AppData\\Local\\Temp\\g3p4m4xm..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\AppData\\Local\\Temp\\g3p4m4xm..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SQLQuery1.sql ",
+              "DocumentMoniker": "C:\\Users\\User\\AppData\\Local\\Temp\\g3p4m4xm..sql",
+              "ToolTip": "SQLQuery1.sql ",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-25T09:47:13.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "salesCustomerMvcContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\development\\C#_ASPNET_Practise\\Assignment-1\\Sales and Customer Managing System\\salesCustomerMvc\\Migrations\\salesCustomerMvcContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\salesCustomerMvcContextModelSnapshot.cs",
+              "ToolTip": "D:\\development\\C#_ASPNET_Practise\\Assignment-1\\Sales and Customer Managing System\\salesCustomerMvc\\Migrations\\salesCustomerMvcContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\salesCustomerMvcContextModelSnapshot.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T09:38:20.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Sales.cs",
+              "DocumentMoniker": "D:\\development\\C#_ASPNET_Practise\\Assignment-1\\Sales and Customer Managing System\\salesCustomerMvc\\Models\\Sales.cs",
+              "RelativeDocumentMoniker": "Models\\Sales.cs",
+              "ToolTip": "D:\\development\\C#_ASPNET_Practise\\Assignment-1\\Sales and Customer Managing System\\salesCustomerMvc\\Models\\Sales.cs",
+              "RelativeToolTip": "Models\\Sales.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T08:44:47.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\development\\C#_ASPNET_Practise\\Assignment-1\\Sales and Customer Managing System\\salesCustomerMvc\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\development\\C#_ASPNET_Practise\\Assignment-1\\Sales and Customer Managing System\\salesCustomerMvc\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T11:41:45.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\development\\C#_ASPNET_Practise\\Assignment-1\\Sales and Customer Managing System\\salesCustomerMvc\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\development\\C#_ASPNET_Practise\\Assignment-1\\Sales and Customer Managing System\\salesCustomerMvc\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T08:59:53.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "salesCustomerMvcContext.cs",
+              "DocumentMoniker": "D:\\development\\C#_ASPNET_Practise\\Assignment-1\\Sales and Customer Managing System\\salesCustomerMvc\\Data\\salesCustomerMvcContext.cs",
+              "RelativeDocumentMoniker": "Data\\salesCustomerMvcContext.cs",
+              "ToolTip": "D:\\development\\C#_ASPNET_Practise\\Assignment-1\\Sales and Customer Managing System\\salesCustomerMvc\\Data\\salesCustomerMvcContext.cs",
+              "RelativeToolTip": "Data\\salesCustomerMvcContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T07:00:10.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StoresController.cs",
+              "DocumentMoniker": "D:\\development\\C#_ASPNET_Practise\\Assignment-1\\Sales and Customer Managing System\\salesCustomerMvc\\Controllers\\StoresController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StoresController.cs",
+              "ToolTip": "D:\\development\\C#_ASPNET_Practise\\Assignment-1\\Sales and Customer Managing System\\salesCustomerMvc\\Controllers\\StoresController.cs",
+              "RelativeToolTip": "Controllers\\StoresController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T09:01:33.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240525093812_InitialCreate.cs",
+              "DocumentMoniker": "D:\\development\\C#_ASPNET_Practise\\Assignment-1\\Sales and Customer Managing System\\salesCustomerMvc\\Migrations\\20240525093812_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240525093812_InitialCreate.cs",
+              "ToolTip": "D:\\development\\C#_ASPNET_Practise\\Assignment-1\\Sales and Customer Managing System\\salesCustomerMvc\\Migrations\\20240525093812_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20240525093812_InitialCreate.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T09:38:13.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\development\\C#_ASPNET_Practise\\Assignment-1\\Sales and Customer Managing System\\salesCustomerMvc\\Views\\Customers\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customers\\Index.cshtml",
+              "ToolTip": "D:\\development\\C#_ASPNET_Practise\\Assignment-1\\Sales and Customer Managing System\\salesCustomerMvc\\Views\\Customers\\Index.cshtml",
+              "RelativeToolTip": "Views\\Customers\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAABgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T07:42:20.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\development\\C#_ASPNET_Practise\\Assignment-1\\Sales and Customer Managing System\\salesCustomerMvc\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\development\\C#_ASPNET_Practise\\Assignment-1\\Sales and Customer Managing System\\salesCustomerMvc\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T11:50:44.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\development\\C#_ASPNET_Practise\\Assignment-1\\Sales and Customer Managing System\\salesCustomerMvc\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\development\\C#_ASPNET_Practise\\Assignment-1\\Sales and Customer Managing System\\salesCustomerMvc\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-25T07:26:15.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\development\\C#_ASPNET_Practise\\Assignment-1\\Sales and Customer Managing System\\salesCustomerMvc\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "D:\\development\\C#_ASPNET_Practise\\Assignment-1\\Sales and Customer Managing System\\salesCustomerMvc\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T08:45:25.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\development\\C#_ASPNET_Practise\\Assignment-1\\Sales and Customer Managing System\\salesCustomerMvc\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\development\\C#_ASPNET_Practise\\Assignment-1\\Sales and Customer Managing System\\salesCustomerMvc\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T08:49:35.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Store.cs",
+              "DocumentMoniker": "D:\\development\\C#_ASPNET_Practise\\Assignment-1\\Sales and Customer Managing System\\salesCustomerMvc\\Models\\Store.cs",
+              "RelativeDocumentMoniker": "Models\\Store.cs",
+              "ToolTip": "D:\\development\\C#_ASPNET_Practise\\Assignment-1\\Sales and Customer Managing System\\salesCustomerMvc\\Models\\Store.cs",
+              "RelativeToolTip": "Models\\Store.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T08:54:10.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SalesController.cs",
+              "DocumentMoniker": "D:\\development\\C#_ASPNET_Practise\\Assignment-1\\Sales and Customer Managing System\\salesCustomerMvc\\Controllers\\SalesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SalesController.cs",
+              "ToolTip": "D:\\development\\C#_ASPNET_Practise\\Assignment-1\\Sales and Customer Managing System\\salesCustomerMvc\\Controllers\\SalesController.cs",
+              "RelativeToolTip": "Controllers\\SalesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T09:02:49.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\development\\C#_ASPNET_Practise\\Assignment-1\\Sales and Customer Managing System\\salesCustomerMvc\\Views\\Customers\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customers\\Details.cshtml",
+              "ToolTip": "D:\\development\\C#_ASPNET_Practise\\Assignment-1\\Sales and Customer Managing System\\salesCustomerMvc\\Views\\Customers\\Details.cshtml",
+              "RelativeToolTip": "Views\\Customers\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T07:39:42.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HelloWorldController.cs",
+              "DocumentMoniker": "D:\\development\\C#_ASPNET_Practise\\Assignment-1\\Sales and Customer Managing System\\salesCustomerMvc\\Controllers\\HelloWorldController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HelloWorldController.cs",
+              "ToolTip": "D:\\development\\C#_ASPNET_Practise\\Assignment-1\\Sales and Customer Managing System\\salesCustomerMvc\\Controllers\\HelloWorldController.cs",
+              "RelativeToolTip": "Controllers\\HelloWorldController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwCkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T11:41:39.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\development\\C#_ASPNET_Practise\\Assignment-1\\Sales and Customer Managing System\\salesCustomerMvc\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "D:\\development\\C#_ASPNET_Practise\\Assignment-1\\Sales and Customer Managing System\\salesCustomerMvc\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T06:52:26.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "D:\\development\\C#_ASPNET_Practise\\Assignment-1\\Sales and Customer Managing System\\salesCustomerMvc\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomersController.cs",
+              "ToolTip": "D:\\development\\C#_ASPNET_Practise\\Assignment-1\\Sales and Customer Managing System\\salesCustomerMvc\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "Controllers\\CustomersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T06:59:16.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\development\\C#_ASPNET_Practise\\Assignment-1\\Sales and Customer Managing System\\salesCustomerMvc\\Views\\HelloWorld\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\HelloWorld\\Index.cshtml",
+              "ToolTip": "D:\\development\\C#_ASPNET_Practise\\Assignment-1\\Sales and Customer Managing System\\salesCustomerMvc\\Views\\HelloWorld\\Index.cshtml",
+              "RelativeToolTip": "Views\\HelloWorld\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T13:45:07.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\development\\C#_ASPNET_Practise\\Assignment-1\\Sales and Customer Managing System\\salesCustomerMvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\development\\C#_ASPNET_Practise\\Assignment-1\\Sales and Customer Managing System\\salesCustomerMvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T14:02:04.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Welcome.cshtml",
+              "DocumentMoniker": "D:\\development\\C#_ASPNET_Practise\\Assignment-1\\Sales and Customer Managing System\\salesCustomerMvc\\Views\\HelloWorld\\Welcome.cshtml",
+              "RelativeDocumentMoniker": "Views\\HelloWorld\\Welcome.cshtml",
+              "ToolTip": "D:\\development\\C#_ASPNET_Practise\\Assignment-1\\Sales and Customer Managing System\\salesCustomerMvc\\Views\\HelloWorld\\Welcome.cshtml",
+              "RelativeToolTip": "Views\\HelloWorld\\Welcome.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T14:28:56.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Movie.cs.off",
+              "DocumentMoniker": "D:\\development\\C#_ASPNET_Practise\\Assignment-1\\Sales and Customer Managing System\\salesCustomerMvc\\Models\\Movie.cs.off",
+              "RelativeDocumentMoniker": "Models\\Movie.cs.off",
+              "ToolTip": "D:\\development\\C#_ASPNET_Practise\\Assignment-1\\Sales and Customer Managing System\\salesCustomerMvc\\Models\\Movie.cs.off",
+              "RelativeToolTip": "Models\\Movie.cs.off",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-25T06:32:24.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\development\\C#_ASPNET_Practise\\Assignment-1\\Sales and Customer Managing System\\salesCustomerMvc\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\development\\C#_ASPNET_Practise\\Assignment-1\\Sales and Customer Managing System\\salesCustomerMvc\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T14:06:49.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\development\\C#_ASPNET_Practise\\Assignment-1\\Sales and Customer Managing System\\salesCustomerMvc\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\development\\C#_ASPNET_Practise\\Assignment-1\\Sales and Customer Managing System\\salesCustomerMvc\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T14:14:56.379Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
